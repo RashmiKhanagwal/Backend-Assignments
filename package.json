@@ -1,0 +1,24 @@
+{
+  "name": "Backend-Assignments",
+  "version": "1.0.0",
+  "description": "- Create APIs to get all, get by id, add, update by id and delete by id a TODO list\r - Should use MongoDB as a database\r - API should not have any additional routes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashmiKhanagwal/Backend-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashmiKhanagwal/Backend-Assignments/issues"
+  },
+  "homepage": "https://github.com/RashmiKhanagwal/Backend-Assignments#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
