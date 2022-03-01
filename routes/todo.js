@@ -6,3 +6,5 @@ router.get("/:id", todo.getAllTodo);
 router.get("/:id", todo.getOneTodo);
 router.put("/:id", todo.updateTodo);
 router.delete("/:id", todo.deleteTodo);
+
+module.exports = router;
